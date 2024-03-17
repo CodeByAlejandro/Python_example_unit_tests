@@ -65,6 +65,7 @@ running test : test_bool_value_guess
 post-test cleanup
 .
 pre-test initialization
+running test : test_none_value_guess
 post-test cleanup
 .
 pre-test initialization
@@ -105,6 +106,7 @@ post-test cleanup
 ok
 test_none_value_guess (test_main.TestSuccesfulGuess) ...
 pre-test initialization
+running test : test_none_value_guess
 post-test cleanup
 ok
 test_out_of_range_lower_bound_guess (test_main.TestSuccesfulGuess) ...
